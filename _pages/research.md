@@ -10,9 +10,9 @@ My research deals with higher category theory, homotopy theory, and applications
 
 ### Selected ongoing projects
 
-- Relations between cyclic 2-Segal sets/spaces and double categories. Joint with [Julie Bergner](https://sites.google.com/view/julie-bergner/)
+- Simplicial quantum contextuality, as part of [Cihan Okay](https://www.cihanokay.com/)'s group. 
 - Frobenius algebras in (higher) categories of spans or lagrangian correspondences. Joint with [Ivan Contreras](https://icontreraspalacios.people.amherst.edu/) and [Rajan Mehta](https://www.smith.edu/people/rajan-mehta)
-- Models for cyclic $$\infty$$-operads, algebras over cyclic $$\infty$$-operads. 
+- New models for cyclic $$\infty$$-operads, algebras over cyclic $$\infty$$-operads. 
 
 
 
