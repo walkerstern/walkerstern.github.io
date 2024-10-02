@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in the research group of [Cihan Okay](https://www.cihanokay.com/) at Bilkent University. Before that, I was an RTG post-doctoral research associate and lecturer in mathematics at the University of Virginia, and a post-doc at Universität Hamburg. I received my doctorate in mathematics from Universität Bonn in 2019, advised by [Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/). 
+I am a postdoc in the research group of [Claudia Scheimbauer](http://www.scheimbauer.at/) at Bilkent University. Before that, I was a postdoctoral researcher at Bilken University, an RTG post-doctoral research associate and lecturer in mathematics at the University of Virginia, and a post-doc at Universität Hamburg. I received my doctorate in mathematics from Universität Bonn in 2019, advised by [Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/). 
 
 My work deals with $$(\infty,1)$$-categories, $$(\infty,2)$$-categories, homotopy theory, operads, mathematical physics, and topology. For more details, see my [research]({{site.url}}/research/) and [publications]({{site.url}}/publications/) pages. 
 
