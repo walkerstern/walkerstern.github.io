@@ -4,7 +4,7 @@ permalink: /writings/
 title: Writings
 description: These are miscellanious notes, mostly from my PhD. For notes I have written for courses I was teaching, see the relevant course page. Please contact me if you find an error in any of these files. 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 - [Seminar on Fukaya Categories]({{site.url}}/assets/pdf/notes/Notes_Fukaya.pdf) Winter semester 2015-2016. Overseen by Tobias Dyckerhoff and Catharina Stroppel.

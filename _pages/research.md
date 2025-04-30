@@ -10,7 +10,7 @@ My research deals with higher category theory, homotopy theory, and applications
 
 ### Selected ongoing projects
  
-- Frobenius algebras in (higher) categories of spans or lagrangian correspondences. Joint with [Ivan Contreras](https://icontreraspalacios.people.amherst.edu/) and [Rajan Mehta](https://www.smith.edu/people/rajan-mehta)
+- Braidings in geometric representation theory. Joint with [Jonte Gödicke]({{https://jonte-goedicke.com/}}) and [Quoc P. Ho]({{https://quocho.com/}}) 
 - New models for cyclic $$\infty$$-operads, algebras over cyclic $$\infty$$-operads. 
 
 
