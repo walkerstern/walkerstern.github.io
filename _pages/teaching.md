@@ -5,7 +5,7 @@ title: Teaching
 description: Course webpages from the past several years. Note that Some courses only have a placeholder website. 
 nav: true
 nav_order: 3
-display_categories: [2023, 2022, 2021, 2020, Mentoring]
+display_categories: [2026, 2023, 2022, 2021, 2020, Mentoring]
 horizontal: false
 ---
 
