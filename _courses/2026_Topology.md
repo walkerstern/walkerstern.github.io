@@ -2,7 +2,7 @@
 layout: page
 title: Topology
 description: MA3241 (TUM)
-img: /assets/img/courses/topsp.png
+img: /assets/img/topsp.png
 importance: 1
 category: 2026
 related_publications:
